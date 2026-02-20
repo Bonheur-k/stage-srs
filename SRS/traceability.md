@@ -1,0 +1,1 @@
+Objectif : Matrice reliant exigences, parties prenantes et changements.ExigencePartie PrenanteChangementFR-01Client-FR-HistoriqueClient / GérantCR-01 (Consultation historique)
