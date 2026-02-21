@@ -1,16 +1,16 @@
-Objectif : Exigences fonctionnelles avec le format imposé.
-
-FR-ID : FR-01
-
-Description : Le système doit permettre au client de filtrer les articles par taille (S, M, L, XL).
-
-Raison : Aider le client à trouver rapidement des articles à sa taille.
+FR-01 : Recherche de vêtements par taille.
 
 
-Source : Client 
+Description : L'utilisateur doit pouvoir filtrer les articles.
 
 
-Priorité : Haute 
+Raison : Éviter que l'utilisateur perde du temps sur des articles indisponibles pour lui.
 
 
-Critère d'acceptation : Seuls les articles de la taille sélectionnée s'affichent à l'écran.
+Source : Client (Utilisateur final).
+
+
+Priorité : Haute.
+
+
+Critère d'acceptation : La liste n'affiche que les tailles sélectionnées

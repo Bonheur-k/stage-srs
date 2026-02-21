@@ -1,11 +1,11 @@
 # Vision - Système E-Commerce
 
 ## Problème à résoudre
-La boutique physique actuelle ne permet pas d'atteindre les clients hors de la ville et les stocks ne sont pas consultables en temps réel.
+Manque de présence en ligne pour une boutique de vêtements.
 
 ## Objectif du système
-Fournir une plateforme numérique permettant la vente de vêtements en ligne et la synchronisation des stocks.
+Créer une plateforme permettant l'achat et la livraison d'articles.
 
 ## Bénéfices attendus
-* Augmentation du volume de ventes.
-* Meilleure satisfaction client grâce au suivi de commande.
+Toucher des clients en dehors de la zone géographique locale.
+
